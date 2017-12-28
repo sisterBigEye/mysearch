@@ -1,2 +1,4 @@
 this is my learn git code
-try git commit
+try git commitADD
+commit global_template
+hihi
